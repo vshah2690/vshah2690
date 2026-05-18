@@ -1,35 +1,37 @@
-# hey, I'm Viraj 👋
+# Hi, I'm Viraj 👋
 
-I'm a full stack engineer based in London. I spend most of my time building backend systems and APIs — the kind that have to actually work at 2am when nobody's watching.
+**Full Stack Engineer & Data Professional — London, UK**
 
-Four years in, I've worked across Python, Node.js, TypeScript, and PHP. Right now I'm the sole engineer on a customer-facing platform at Tamarind Collection, which means I own everything from architecture decisions to deployment — and I've learned a lot from that.
+I build backend systems and APIs that hold up in production — not just in demos. Four years across Python, Node.js, TypeScript, and PHP, working on everything from high-traffic REST APIs to live cloud migrations that couldn't afford downtime.
 
-I recently finished an MSc in Computer Science at UEL, where I focused on applied AI. My dissertation was an end-to-end ML pipeline for Alzheimer's detection — which taught me that getting a model to work in a notebook and getting it to work in production are very different problems.
+Currently the sole engineer on a customer-facing platform at Tamarind Collection — which means I own the full picture, from architecture calls to deployment. Recently wrapped up an MSc in Computer Science at UEL, where I focused on the part of AI that actually matters to me: getting intelligent systems out of notebooks and into production. My dissertation was an end-to-end ML pipeline for Alzheimer's detection — PySpark, real data, the works.
+
+I'm drawn to the overlap between engineering and data — building systems that don't just serve data but understand it.
 
 ---
 
-## what I work with
+## Stack
 
 `Python` `Node.js` `TypeScript` `Django` `FastAPI` `Express.js` `React` `MySQL` `MongoDB` `AWS` `PySpark` `Snowflake`
 
 ---
 
-## things I've actually shipped
+## Selected Work
 
-- APIs serving thousands of requests across web, mobile, and third-party integrations
-- A live cloud infrastructure migration with zero downtime (still proud of that one)
-- An internal KPI dashboard that killed a manual reporting process nobody liked
-- POS integrations with Kounta into live hospitality platforms
-- An ML pipeline for Alzheimer's detection, soup to nuts
-
----
-
-## what I'm digging into lately
-
-ML deployment · LLM tooling · analytics engineering · that sweet spot between engineering and data
+- **APIs at scale** — RESTful services handling thousands of requests across web, mobile & third-party consumers
+- **Zero-downtime migration** — moved live infrastructure between cloud providers without a single outage
+- **Internal tooling** — KPI dashboard that replaced a manual reporting workflow used by senior stakeholders daily
+- **ML in production** — end-to-end Alzheimer's detection pipeline (MSc dissertation) built to actually deploy, not just score
+- **POS integrations** — Kounta system wired into live client applications in the hospitality space
 
 ---
 
-## say hi
+## Currently exploring
+
+ML deployment pipelines · LLM-integrated tooling · Analytics engineering · Engineering + Data hybrid roles
+
+---
+
+## Get in touch
 
 📧 vshah2690@gmail.com · [LinkedIn](https://www.linkedin.com/in/virajshah96)
